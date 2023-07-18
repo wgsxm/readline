@@ -1,8 +1,6 @@
 name: C++ Build
 
-on:
-  push:
-    branches: [master]  # 当代码推送到 master 分支时触发构建
+on: [push]
 
 jobs:
   build:
