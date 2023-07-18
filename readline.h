@@ -9,5 +9,5 @@ public:
 	static void coloredOutput(const std::string&, const std::string&);
 	static void moveCursorLeft(int);
 	static void moveCursorRight(int);
-}
+};
 #endif
